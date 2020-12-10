@@ -1,5 +1,5 @@
-##Git-web⚙️
-###ACQUAINTING MYSELF WITH WEB!
+#Git-web⚙️
+ACQUAINTING MYSELF WITH WEB!
 👩🏻‍💻
 
 
